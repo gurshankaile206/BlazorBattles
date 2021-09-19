@@ -4,3 +4,4 @@
 1:34: Finding a course on .NET MVC to refresh and gain a better understanding
 3:00: Taking a MVC course on team tree house 
 3:46: Learning ASP.NET MVC Routing
+4:33: learning controller application logic
