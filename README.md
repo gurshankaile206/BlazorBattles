@@ -8,4 +8,5 @@
 8:00: learning how to use Microsoft SQL server
 9:00: planning objects and functionality need for RPG
 10:00: learning how to deploy a project to azure using blazor
+11:00: learning blazor UI
 
