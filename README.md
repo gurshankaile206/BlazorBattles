@@ -10,4 +10,5 @@
 10:00: learning how to deploy a project to azure using blazor
 11:00: learning blazor UI
 11:30: learning Blazor "web assembly"
+12:16: Continue to learn Blazor "web Assembly"
 
