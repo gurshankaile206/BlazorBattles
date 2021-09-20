@@ -6,4 +6,5 @@
 3:46: Learning ASP.NET MVC Routing
 4:33: learning controller application logic
 8:00: learning how to use Microsoft SQL server
+9:00: planning objects and functionality need for RPG
 
