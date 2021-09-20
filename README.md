@@ -9,4 +9,5 @@
 9:00: planning objects and functionality need for RPG
 10:00: learning how to deploy a project to azure using blazor
 11:00: learning blazor UI
+11:30: learning Blazor "web assembly"
 
