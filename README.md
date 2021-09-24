@@ -12,3 +12,7 @@
 11:30: learning Blazor "web assembly"
 12:16: Continue to learn Blazor "web Assembly"
 
+
+Friday September 24th 
+
+10:21: learning how to incorporate web API
