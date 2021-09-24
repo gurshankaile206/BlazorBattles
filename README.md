@@ -16,3 +16,4 @@
 Friday September 24th 
 
 10:21: learning how to incorporate web API
+11:33: dowloading Visual Studio (not visual studio code )
