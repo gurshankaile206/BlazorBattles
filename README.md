@@ -17,3 +17,5 @@ Friday September 24th
 
 10:21: learning how to incorporate web API
 11:33: dowloading Visual Studio (not visual studio code )
+12:34: still downloading Blazor Web Assembly 
+1:40: Finally got first Blazor Web Assembly application running (I will have to switch commits to that file since I had to build a new project using Visual Studio Community)
