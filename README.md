@@ -21,3 +21,4 @@ Friday September 24th
 1:40: Finally got first Blazor Web Assembly application running (I will have to switch commits to that file since I had to build a new project using Visual Studio Community)
 2:13: Watching a tutorial to understand how BlazorWebAssembly Client and Server controllers interact
 3:09: finishing client and server tutorial
+4:22: learning components and state in Blazor
