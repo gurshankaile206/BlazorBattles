@@ -22,3 +22,4 @@ Friday September 24th
 2:13: Watching a tutorial to understand how BlazorWebAssembly Client and Server controllers interact
 3:09: finishing client and server tutorial
 4:22: learning components and state in Blazor
+9:22: learning one way binding in Blazor through "Blazor University" 
